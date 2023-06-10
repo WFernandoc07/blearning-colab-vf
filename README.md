@@ -10,6 +10,11 @@ git switch -c "william"
 ~~~
 git branch
 ~~~
-Test del evento JIT Cajamarca
-
-Primera vez creando un repositorio
+* El siguiente comando nos permite configurar nuestro usuario de git
+~~~
+git config --global user.name "william"
+~~~
+* El siguiente comando nos permite configurar nuestro email
+~~~
+git config --global user.email "wcastrejonc17_1@unc.edu.pe"
+~~~
