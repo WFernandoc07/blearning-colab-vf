@@ -18,3 +18,8 @@ git config --global user.name "william"
 ~~~
 git config --global user.email "wcastrejonc17_1@unc.edu.pe"
 ~~~
+* El siguiente comando nos permite cambiar de una rama a otra. A continuación se presentan dos ejemplos.
+~~~
+git checkout main
+git checkout william
+~~~
