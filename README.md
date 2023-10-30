@@ -23,3 +23,6 @@ git config --global user.email "wcastrejonc17_1@unc.edu.pe"
 git checkout main
 git checkout william
 ~~~
+
+### Recursos
+https://archive.ics.uci.edu/datasets
