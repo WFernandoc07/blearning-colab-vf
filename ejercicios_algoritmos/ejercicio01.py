@@ -5,17 +5,13 @@ sol = int(input('Digite una cantidad: '))
 
 def convertirMoneda(sol):
     if sol < 0:
-        return 'valor incorrecto'
+        return 'Valor incorrecto'
     else:
         if sol < 100:
             sol = 3.25*sol
             return f'{sol} dólares'
         else:
             sol = 4.20*sol
-            return  f'{sol} euros'
+            return f'{sol} euros'
 
 print(convertirMoneda(sol))
-
-
-
-

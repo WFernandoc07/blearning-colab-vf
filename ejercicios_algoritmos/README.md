@@ -28,3 +28,16 @@ Pésimo si su promedio esta entre 0 y 5
 * NVIM
 * Python
 ## 3. Comandos utilizados
+* **GIT**
+```bash
+git add .
+git commit -m "coment"
+git push origin branch_name
+```
+
+* **NVIM**
+```nvim
+:w
+:q
+```
+
